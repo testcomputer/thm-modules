@@ -27,3 +27,10 @@ In the below image, you can see the permissions for the Users group for the Wind
      
 ![image](https://user-images.githubusercontent.com/104815254/226784285-25920d09-80ce-49a0-bea3-57ac69d51445.png)
 
+
+
+<h2> 
+        <div style="text-align: center;"> Beware! 
+        </div> </h2>
+
+The Windows folder (C:\Windows) is traditionally known as the folder which contains the Windows operating system. 
