@@ -1,3 +1,11 @@
+Terms to understand:
+
+        Alternate Data Streams (ADS)
+        NTFS (New Technology File System)
+        FAT16/FAT32 (File Allocation Table)
+        HPFS (High Performance File System)
+
+
 The file system used in modern versions of Windows is the New Technology File System or simply NTFS. 
 
 NTFS is known as a journaling file system. In case of a failure, the file system can automatically repair the folders/files 
@@ -18,3 +26,4 @@ In the below image, you can see the permissions for the Users group for the Wind
 
      
 ![image](https://user-images.githubusercontent.com/104815254/226784285-25920d09-80ce-49a0-bea3-57ac69d51445.png)
+
