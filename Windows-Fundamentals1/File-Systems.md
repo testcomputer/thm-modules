@@ -115,14 +115,6 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
 
 Here are some of the important roles file systems play in Windows:
 
-  Organizing files: File systems in Windows help organize files and data stored on a computer's hard drive. They provide a hierarchical structure that allows users to create folders and subfolders to group related files and data.
-
-  Ensuring data integrity: File systems ensure the integrity of the data stored on a computer by preventing data corruption and ensuring that data is stored and retrieved accurately.
-
-  Managing access to files: File systems help manage access to files by controlling who can access files and what level of access they have. This helps ensure that sensitive data is protected and that only authorized users can access it.
-
-  Enabling file sharing: File systems also allow users to share files with others on a network. This is important in a collaborative environment where multiple users need access to the same files.
-
-   Facilitating backup and recovery: File systems facilitate backup and recovery by allowing users to create backups of their data and restore it in case of data loss or system failure.
+Organizing files: File systems in Windows help organize files and data stored on a computer's hard drive. They provide a hierarchical structure that allows users to create folders and subfolders to group related files and data. Ensuring data integrity: File systems ensure the integrity of the data stored on a computer by preventing data corruption and ensuring that data is stored and retrieved accurately. Managing access to files: File systems help manage access to files by controlling who can access files and what level of access they have. This helps ensure that sensitive data is protected and that only authorized users can access it. Enabling file sharing: File systems also allow users to share files with others on a network. This is important in a collaborative environment where multiple users need access to the same files. Facilitating backup and recovery: File systems facilitate backup and recovery by allowing users to create backups of their data and restore it in case of data loss or system failure.
 
 Overall, file systems are an essential part of any operating system, and they play a critical role in managing and organizing data on a computer. Without a file system, it would be impossible to store, access, and manage files and data on a computer effectively.
