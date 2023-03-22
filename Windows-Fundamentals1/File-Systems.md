@@ -35,7 +35,7 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
         The C:\Windows folder is a critical part of the Windows operating system that contains essential files, settings, and programs. It is important because it helps Windows run smoothly and perform necessary tasks, such as managing hardware drivers and system updates. However, the C:\Windows folder can also be a dangerous place if accessed or modified by unauthorized users. This is because some of the files in this folder are crucial for the proper functioning of the operating system, and modifying or deleting them can cause serious damage to the system, including crashes, errors, and data loss. Additionally, malware and viruses often target this folder as a way to gain access to sensitive data or take control of the system. Therefore, it is important to exercise caution when accessing or modifying the C:\Windows folder, and to only do so with proper permissions and a thorough understanding of the potential risks involved.
 
         
-        I. Introduction
+  <h1><strong> I. Introduction  </h1> </strong>
 
   File system: a way of organizing and storing files on a computer
     Windows file systems: the file systems used by Microsoft Windows operating systems
