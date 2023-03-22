@@ -44,7 +44,7 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
         Helps with organizing and managing files
         Crucial for cybersecurity, since file systems affect file access, permissions, and security
 
-        II. File systems in Windows
+  <h1> <strong> II. File systems in Windows </h1> </strong>
 
   FAT (File Allocation Table):
         Used in older versions of Windows (up to Windows 98)
@@ -60,7 +60,7 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
     Comparison between FAT and NTFS:
         NTFS is more advanced and secure, but requires more resources and is less compatible with other operating systems
 
-        III. Understanding file paths
+ <h1> <strong>  III. Understanding file paths  </h1> </strong>
 
   File path: the location of a file or folder on a computer
     Absolute vs. relative file paths:
@@ -71,7 +71,7 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
         Folder names: the names of the directories that contain the file (e.g. Windows\System32)
         File name and extension: the name of the file (e.g. calc.exe)
 
-        IV. Tips for managing files in Windows
+ <h1> <strong> IV. Tips for managing files in Windows </h1> </strong>
 
   Organizing files into folders:
         Helps with finding and accessing files
@@ -86,7 +86,7 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
         File compression can save disk space and make files easier to share
         Encryption can protect sensitive files from unauthorized access
 
-        V. Best practices for Windows file system security
+ <h1> <strong> V. Best practices for Windows file system security </h1> </strong>
 
   Setting permissions on files and folders:
         Use least privilege principle (only give access that is necessary)
@@ -104,7 +104,7 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
         Install Windows updates and security patches regularly
         Keep third-party software up to date to avoid vulnerabilities
 
-        VI. Conclusion
+ <h1> <strong>  VI. Conclusion </h1> </strong>
 
   Windows file systems are important for organizing and managing files, as well as for cybersecurity
     Understanding file paths and file management techniques can make working with files easier and more efficient
