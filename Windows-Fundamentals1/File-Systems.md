@@ -17,4 +17,4 @@ In the below image, you can see the permissions for the Users group for the Wind
 ![image](https://user-images.githubusercontent.com/104815254/226783751-ab06d297-0a42-43a9-9b4a-3212175c7de2.png)"
 
      
-![image](https://user-images.githubusercontent.com/104815254/226784071-af947d78-e95d-4a72-8cc0-04cdc0ba242f.png)"
+![image](https://user-images.githubusercontent.com/104815254/226784285-25920d09-80ce-49a0-bea3-57ac69d51445.png)
