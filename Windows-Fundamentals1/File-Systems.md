@@ -37,16 +37,16 @@ The Windows folder (C:\Windows) is traditionally known as the folder which conta
         
         I. Introduction
 
-    File system: a way of organizing and storing files on a computer
+  File system: a way of organizing and storing files on a computer
     Windows file systems: the file systems used by Microsoft Windows operating systems
     Importance of understanding file systems:
         Helps with troubleshooting and fixing errors
         Helps with organizing and managing files
         Crucial for cybersecurity, since file systems affect file access, permissions, and security
 
-II. File systems in Windows
+        II. File systems in Windows
 
-    FAT (File Allocation Table):
+  FAT (File Allocation Table):
         Used in older versions of Windows (up to Windows 98)
         Simple and easy to implement, but has limitations:
             Limited file and partition size
@@ -60,9 +60,9 @@ II. File systems in Windows
     Comparison between FAT and NTFS:
         NTFS is more advanced and secure, but requires more resources and is less compatible with other operating systems
 
-III. Understanding file paths
+        III. Understanding file paths
 
-    File path: the location of a file or folder on a computer
+  File path: the location of a file or folder on a computer
     Absolute vs. relative file paths:
         Absolute path: starts from the root directory (e.g. C:\Windows\System32)
         Relative path: starts from the current directory (e.g. .\Documents)
@@ -71,9 +71,9 @@ III. Understanding file paths
         Folder names: the names of the directories that contain the file (e.g. Windows\System32)
         File name and extension: the name of the file (e.g. calc.exe)
 
-IV. Tips for managing files in Windows
+        IV. Tips for managing files in Windows
 
-    Organizing files into folders:
+  Organizing files into folders:
         Helps with finding and accessing files
         Can use subfolders and categories for better organization
     Renaming, moving, copying, and deleting files:
@@ -86,9 +86,9 @@ IV. Tips for managing files in Windows
         File compression can save disk space and make files easier to share
         Encryption can protect sensitive files from unauthorized access
 
-V. Best practices for Windows file system security
+        V. Best practices for Windows file system security
 
-    Setting permissions on files and folders:
+  Setting permissions on files and folders:
         Use least privilege principle (only give access that is necessary)
         Be careful when changing permissions on system files
     Using encryption to protect sensitive files:
@@ -104,9 +104,9 @@ V. Best practices for Windows file system security
         Install Windows updates and security patches regularly
         Keep third-party software up to date to avoid vulnerabilities
 
-VI. Conclusion
+        VI. Conclusion
 
-    Windows file systems are important for organizing and managing files, as well as for cybersecurity
+  Windows file systems are important for organizing and managing files, as well as for cybersecurity
     Understanding file paths and file management techniques can make working with files easier and more efficient
     Best practices for file system security can help protect your data and prevent unauthorized access
     Additional resources for learning more about Windows file systems and cybersecurity include online tutorials, books, and courses.
