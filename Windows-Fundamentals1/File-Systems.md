@@ -30,7 +30,7 @@ In the below image, you can see the permissions for the Users group for the Wind
 
 
 <h2> 
-        <div style="text-align: center;"> Beware! 
+        <div style="text-align: center;margin:0 auto;"> Beware! 
         </div> </h2>
 
 The Windows folder (C:\Windows) is traditionally known as the folder which contains the Windows operating system. 
