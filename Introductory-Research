@@ -1,0 +1,16 @@
+https://0xrick.github.io/lists/stego/
+
+Study Steganography.
+
+Steganography is the practice of concealing information within other information, such as hiding a message within an image,
+video, or audio file. The goal of steganography is to hide the existence of the message, as opposed to cryptography, which 
+aims to protect the content of the message.
+
+There are many techniques used in steganography, including hiding messages within the least significant bits of image or audio
+files, using invisible ink, or embedding messages within seemingly innocuous data such as whitespace or the pixels of an image.
+
+Steganography has been used for centuries, dating back to ancient Greece, where messages were hidden within the wax of wooden
+tablets. Today, steganography is used in various fields, such as digital watermarking, copyright protection, and covert communication.
+
+While steganography can be used for legitimate purposes, it can also be used for malicious purposes, such as hiding malware or 
+stealing sensitive information. As a result, steganography is an area of interest for cybersecurity researchers and law enforcement agencies.
