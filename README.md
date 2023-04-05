@@ -40,6 +40,7 @@
   <p align="center">
     Here is a organized list of TryHackMe's training Module, a few walkthroughs, and breakdowns. 
     <br />
+ <!-- Broken Link below -->
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
