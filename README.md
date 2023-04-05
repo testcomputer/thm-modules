@@ -38,7 +38,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Here is a organized list of TryHackMe's training Module, a few walkthroughs, and breakdowns. 
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
