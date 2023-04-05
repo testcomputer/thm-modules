@@ -35,7 +35,7 @@
 <br />
 <div align="center">
   <img width="911" alt="image" src="https://user-images.githubusercontent.com/104815254/230186797-09fa17ac-ddd9-4eb4-8458-d4c4073eab0f.png">
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">TryHackMe Training</h3>
 
   <p align="center">
     Here is a organized list of TryHackMe's training Module, a few walkthroughs, and breakdowns. 
