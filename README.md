@@ -22,12 +22,12 @@
 -->
 
 
-  [![Contributors][contributors-shield]][https://tryhackme.com]
-  [![Forks][forks-shield]][https://github.com/topics/tryhackme]
+  [![Contributors][contributors-shield]](https://tryhackme.com)
+  [![Forks][forks-shield]](https://github.com/topics/tryhackme)
   [![Stargazers][stars-shield]][stars-url]
   [![Issues][issues-shield]][issues-url]
   [![MIT License][license-shield]][license-urlTEST]
-  [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/daniel-j-w-torres/]
+  [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/daniel-j-w-torres)
 
 
 
