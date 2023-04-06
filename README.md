@@ -119,6 +119,19 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
+* [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework
+* Cybersecurity and Infrastructure Security Agency (CISA) Cybersecurity Resources: https://www.cisa.gov/cybersecurity-resources
+* SANS Institute: https://www.sans.org/
+* OWASP (Open Web Application Security Project): https://owasp.org/
+* NIST Computer Security Resource Center: https://csrc.nist.gov/
+* Cybersecurity Ventures: https://cybersecurityventures.com/
+* National Cyber Security Alliance (NCSA): https://staysafeonline.org/
+* Information Systems Security Association (ISSA): https://www.issa.org/
+* Center for Internet Security (CIS): https://www.cisecurity.org/
+* Cybersecurity and Infrastructure Security Agency (CISA) Cyber Essentials: https://www.cisa.gov/cyber-essentials
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
