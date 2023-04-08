@@ -110,6 +110,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 * [NIST Training](https://www.nist.gov/cyberframework)
+
+<!--
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
@@ -118,6 +120,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+-->
 
 * [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework
 * Cybersecurity and Infrastructure Security Agency (CISA) Cybersecurity Resources: https://www.cisa.gov/cybersecurity-resources
