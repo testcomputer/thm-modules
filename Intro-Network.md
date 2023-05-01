@@ -18,3 +18,9 @@ in the received data.
 
 Layer 1, the Physical layer, is where the actual electrical pulses that make up the data transfer happen. It converts binary data into signals and transmits
 them over the network, as well as receiving incoming signals and converting them back into binary data.
+
+
+DNS - Domain Name System.
+
+So instead of remembering 104.26.10.229, you can remember tryhackme.com instead.
+
