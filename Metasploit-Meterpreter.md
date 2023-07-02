@@ -20,3 +20,5 @@ Run
 
       search -f secrets.txt
 Used to locate files      
+
+      cat "path/to/file" 
