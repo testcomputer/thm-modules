@@ -12,3 +12,8 @@ Run
       run
       
       sysinfo
+
+
+      migrate 772
+      hashdump
+      
