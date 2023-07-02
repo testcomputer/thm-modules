@@ -17,3 +17,6 @@ Run
       migrate 772
       hashdump
       
+
+      search -f secrets.txt
+Used to locate files      
