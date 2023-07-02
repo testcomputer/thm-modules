@@ -11,3 +11,4 @@ Run
       set SMBUser [user]
       run
       
+      sysinfo
