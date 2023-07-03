@@ -1,3 +1,4 @@
+    nmap -sN -Pn -A -oA "File-Name.txt" {target-IP-Address}
     smbclient //10.10.10.2/(share) -U (user)
     ls
     more "File-Name.txt"
