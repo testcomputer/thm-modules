@@ -3,3 +3,4 @@ ls
 more "File-Name.txt"
 -p [port] : to specify the port
 q: to exit
+get
