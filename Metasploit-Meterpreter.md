@@ -28,6 +28,8 @@ Used to locate files
 
     background: 
                Backgrounds the current session
+    sessions: 
+             Quickly switch to another session           
     exit: 
          Terminate the Meterpreter session
     guid: 
@@ -41,8 +43,7 @@ Used to locate files
     load: 
          Loads one or more Meterpreter extensions
     migrate: 
-       Allows you to migrate Meterpreter to another process
+            Allows you to migrate Meterpreter to another process
     run: 
         Executes a Meterpreter script or Post module
-    sessions: 
-             Quickly switch to another session
+
