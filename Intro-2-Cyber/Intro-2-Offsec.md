@@ -64,3 +64,26 @@ Sales database: We expect to see what each customer has purchased and how they p
 ![image](https://github.com/testcomputer/TryHackMe-Modules/assets/104815254/9bfca321-a8f0-424a-80a3-32bef8aa1f9f)
 
 ---
+
+There are a few main categories of common attacks against web applications. Consider the following steps and related attacks.
+
+<h3> Identification and Authentication Failure </h3>
+
+This attack occurs when an unauthorized user gains access to a system or resource by exploiting weaknesses in the identification and 
+authentication mechanisms, potentially leading to unauthorized data access or system manipulation.
+
+<h3> Broken Access Control </h3>
+
+ In this attack, inadequate access controls are exploited, enabling attackers to bypass restrictions and access unauthorized areas of 
+ an application or system, jeopardizing data privacy and system integrity.
+
+<h3> Injection </h3>
+
+ Injection attacks involve maliciously inserting untrusted data, often through input fields, into a system's code or database, which 
+ can lead to data leakage, remote code execution, or unauthorized access.
+
+<h3> Cryptographic Failures </h3> 
+
+This attack encompasses weaknesses in cryptographic implementations, including improper key management or flawed encryption 
+algorithms, resulting in the compromise of sensitive data and communication.
+
