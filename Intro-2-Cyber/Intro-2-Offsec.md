@@ -45,10 +45,11 @@ Gobuster combines each word from the wordlist with the target URL, creating diff
 
 Gobuster sends HTTP requests for each generated path, checking for valid responses from the server. If a response indicates that the path exists (e.g., HTTP status code 200), Gobuster reports the finding.
 
-By using the -u and -w flags, you can efficiently search for hidden directories and files on a web server. This is useful for discovering potential security vulnerabilities, misconfigurations, or sensitive information that might be exposed unintentionally. However, it's important to use tools like Gobuster responsibly and only on systems for which you have proper authorization.      
+By using the -u and -w flags, you can efficiently search for hidden directories and files on a web server. This is useful for discovering potential security vulnerabilities, misconfigurations, or sensitive information that might be exposed unintentionally. However, it's important to use tools like Gobuster responsibly and only on systems for which you have proper authorization. 
 
 ![image](https://github.com/testcomputer/TryHackMe-Modules/assets/104815254/6220e4e6-9df3-4e6d-b6e7-78de744089a5)
 
+---
    
 The web application will read the data about the products and their details from a database server. A database is used to store 
 information in an organized way. Examples include information about products, customers, and invoices. A database server is 
@@ -62,4 +63,4 @@ Sales database: We expect to see what each customer has purchased and how they p
 
 ![image](https://github.com/testcomputer/TryHackMe-Modules/assets/104815254/9bfca321-a8f0-424a-80a3-32bef8aa1f9f)
 
-
+---
