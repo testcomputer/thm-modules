@@ -1,0 +1,30 @@
+You will practice web penatration testing using the command line tool, Gobuster.
+
+    gobuster -u http://fakebank.com -w wordlist.txt dir
+
+The command will run and show you an output similar to this:
+
+GoBuster command to brute-force website pages
+     
+      ubuntu@tryhackme:~/Desktop$ gobuster -u http://fakebank.com -w wordlist.txt dir
+      =====================================================
+      Gobuster v2.0.1
+      =====================================================
+      [+] Mode         : dir
+      [+] Url/Domain   : http://fakebank.com/
+      [+] Threads      : 10
+      [+] Wordlist     : wordlist.txt
+      [+] Status codes : 200,204,301,302,307,403
+      [+] Timeout      : 10s
+      =====================================================
+      2022/04/11 18:23:28 Starting gobuster
+      =====================================================
+      /images (Status: 301)
+      /DIRECTORY_NAME_OUTPUT (Status: 200)
+      =====================================================
+      2022/04/11 18:23:38 Finished
+      =====================================================
+
+        
+
+   
