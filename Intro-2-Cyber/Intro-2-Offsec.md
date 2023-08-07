@@ -47,4 +47,6 @@ Gobuster sends HTTP requests for each generated path, checking for valid respons
 
 By using the -u and -w flags, you can efficiently search for hidden directories and files on a web server. This is useful for discovering potential security vulnerabilities, misconfigurations, or sensitive information that might be exposed unintentionally. However, it's important to use tools like Gobuster responsibly and only on systems for which you have proper authorization.      
 
+![image](https://github.com/testcomputer/TryHackMe-Modules/assets/104815254/6220e4e6-9df3-4e6d-b6e7-78de744089a5)
+
    
