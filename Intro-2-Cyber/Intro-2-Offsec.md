@@ -69,7 +69,7 @@ There are a few main categories of common attacks against web applications. Cons
 
 <h3> Identification and Authentication Failure </h3>
 
-* This attack occurs when an unauthorized user gains access to a system or resource by exploiting weaknesses in the identification and 
++ This attack occurs when an unauthorized user gains access to a system or resource by exploiting weaknesses in the identification and 
 authentication mechanisms, potentially leading to unauthorized data access or system manipulation.
 
 <h3> Broken Access Control </h3>
