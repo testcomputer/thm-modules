@@ -50,3 +50,16 @@ By using the -u and -w flags, you can efficiently search for hidden directories 
 ![image](https://github.com/testcomputer/TryHackMe-Modules/assets/104815254/6220e4e6-9df3-4e6d-b6e7-78de744089a5)
 
    
+The web application will read the data about the products and their details from a database server. A database is used to store 
+information in an organized way. Examples include information about products, customers, and invoices. A database server is 
+responsible for many functions, including reading, searching, and writing to the database.
+
+
+Products database: This database contains details about the products, such as name, images, specifications, and price.
+Customers database: It contains all details related to customers, such as name, address, email, and phone number.
+Sales database: We expect to see what each customer has purchased and how they paid in this database.
+
+
+![image](https://github.com/testcomputer/TryHackMe-Modules/assets/104815254/9bfca321-a8f0-424a-80a3-32bef8aa1f9f)
+
+
