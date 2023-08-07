@@ -4,6 +4,11 @@ Module Review Outline
 Introduction
 ------------
 
+
+Remember to customize this checklist based on the specifics of your engagement, organization's reporting template, and any 
+regulatory or compliance requirements. The goal is to provide a thorough and well-structured report that effectively communicates
+the findings, risks, and recommended actions to enhance security
+
 Briefly introduce the module you are reviewing.
 Mention the title, subject, and any relevant background information.
 
