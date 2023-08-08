@@ -12,3 +12,7 @@ The cat command (short for "concatenate") is used to display the contents of one
 
 history:
 The history command displays a list of previously executed commands in the terminal session. It provides a record of commands entered by the user, along with their command numbers. This command is helpful for reviewing past actions and rerunning commands from history.
+
+su: Short for "switch user" or "substitute user," the su command is used to change to another user account without the need to log out and log back in.
+
+- (hyphen): The hyphen indicates that a complete login session should be initiated for the target user. This ensures that the target user's environment is set up as if they had logged in directly, including setting the home directory and environment variables.
