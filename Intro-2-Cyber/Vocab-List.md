@@ -21,3 +21,18 @@ Short for "switch user" or "substitute user," the su command is used to change t
 
 Nmap:
 Short for "Network Mapper," is a widely used open-source network scanning and discovery tool. It is designed to assist network administrators, security professionals, and enthusiasts in exploring and auditing networks, as well as identifying hosts, services, and potential security vulnerabilities within a network.
+
+FTP server: 
+An FTP server is a software application that runs on a server and allows users to transfer files between computers over a network. It uses the File Transfer Protocol to facilitate the transfer of files, making it a common method for sharing and managing files remotely.
+
+SSH server: 
+An SSH server is a service that provides secure remote access to a computer over a network. It uses the Secure Shell protocol to establish encrypted and authenticated connections, allowing users to log in remotely and execute commands securely.
+
+HTTP server: 
+An HTTP server is a software application that serves web content to clients, such as web browsers. It handles requests from clients for web pages, images, and other resources using the Hypertext Transfer Protocol. When browsing the web, you're interacting with HTTP servers to access websites.
+
+pwd (print working directory): 
+pwd is a command used in command-line interfaces to display the current working directory. It provides the full path of the directory you are currently located in within the file system. This helps users understand their current location in the directory hierarchy while navigating through the system.
+
+
+
