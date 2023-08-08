@@ -37,3 +37,7 @@ pwd is a command used in command-line interfaces to display the current working 
     sudo apt install poppler-utils
 pdfinfo: 
 The pdfinfo command is used to extract and display metadata and information about a PDF file. It helps users retrieve details such as page count, file size, document title, author, creation date, and more from a PDF document through the command-line interface.
+
+    sudo apt install libimage-exiftool-perl
+exiftool: 
+The exiftool command is a powerful and versatile utility used to read, write, and manipulate metadata information in various file formats, including images, audio files, and documents. It allows users to view and modify metadata tags such as EXIF, IPTC, XMP, and more. exiftool is widely used for tasks like extracting camera information from images, organizing media collections, and editing metadata attributes.
