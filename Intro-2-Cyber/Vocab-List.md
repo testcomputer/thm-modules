@@ -1,5 +1,5 @@
 ssh:
-SSH (Secure Shell) is a network protocol used to securely access and manage remote systems over a potentially unsecured network. It provides encrypted communication and authentication methods, allowing users to log into remote servers and execute commands as if they were physically present.
++ SSH (Secure Shell) is a network protocol used to securely access and manage remote systems over a potentially unsecured network. It provides encrypted communication and authentication methods, allowing users to log into remote servers and execute commands as if they were physically present.
 
 whoami:
 The whoami command is used to display the current username of the user who is currently logged into the system. It provides a quick way to identify the user context within a terminal session.
