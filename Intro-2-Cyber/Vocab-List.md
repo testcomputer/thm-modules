@@ -34,5 +34,6 @@ An HTTP server is a software application that serves web content to clients, suc
 pwd (print working directory): 
 pwd is a command used in command-line interfaces to display the current working directory. It provides the full path of the directory you are currently located in within the file system. This helps users understand their current location in the directory hierarchy while navigating through the system.
 
-
-
+    sudo apt install poppler-utils
+pdfinfo: 
+The pdfinfo command is used to extract and display metadata and information about a PDF file. It helps users retrieve details such as page count, file size, document title, author, creation date, and more from a PDF document through the command-line interface.
