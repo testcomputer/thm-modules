@@ -12,3 +12,5 @@
 https://youtu.be/DwPuDptnc2w
 
 boilerplate
+
+communicate with smbclients

@@ -13,3 +13,6 @@ Parrot
 Kali
 Ubuntu
 Suse
+Scanner
+IPS/IDS
+Virusware
