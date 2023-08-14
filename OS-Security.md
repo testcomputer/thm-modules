@@ -7,3 +7,9 @@ We will covering the CIA Triangle.
     Confidentiality
     Integrity
     Availability
+
+
+Parrot
+Kali
+Ubuntu
+Suse
