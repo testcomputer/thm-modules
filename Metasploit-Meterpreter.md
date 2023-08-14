@@ -47,3 +47,5 @@ Used to locate files
     run: 
         Executes a Meterpreter script or Post module
 
+
+Become accurate with vuln scanning

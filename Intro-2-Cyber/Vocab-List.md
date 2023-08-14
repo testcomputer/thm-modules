@@ -41,3 +41,5 @@ pdfinfo:
     sudo apt install libimage-exiftool-perl
 exiftool: 
 - The exiftool command is a powerful and versatile utility used to read, write, and manipulate metadata information in various file formats, including images, audio files, and documents. It allows users to view and modify metadata tags such as EXIF, IPTC, XMP, and more. exiftool is widely used for tasks like extracting camera information from images, organizing media collections, and editing metadata attributes.
+
+Continue to fine craft
